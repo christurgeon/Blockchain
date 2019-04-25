@@ -2,7 +2,7 @@
 #include "Blockchain.h"
 
 // Replicated this from: https://davenash.com/2017/10/build-a-blockchain-with-c
-// RUN: gcc -o TestChain *.cpp -std=c++11
+// RUN: g++ -o TestChain *.cpp -std=c++11
 
 int main() {
   // Informs the user that mining has begun.
