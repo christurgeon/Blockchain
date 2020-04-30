@@ -6,5 +6,5 @@ This repository is written in C++ and includes a Block class and a Blockchain cl
 g++ -o TestChain *.cpp -std=c++11
 ```
 ## Source
-* Replicated this from [this website](https://davenash.com/2017/10/build-a-blockchain-with-c)!
+* Created this basic blockchain from website and code found [here](https://davenash.com/2017/10/build-a-blockchain-with-c)!
 
